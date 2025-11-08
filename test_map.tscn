@@ -238,3 +238,5 @@ tile_set = SubResource("TileSet_7l7f8")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="animated assets"]
 sprite_frames = SubResource("SpriteFrames_3qa0k")
+
+[node name="Node2D" type="Node2D" parent="."]
